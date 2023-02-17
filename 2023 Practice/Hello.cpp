@@ -7,7 +7,7 @@ using namespace std;
 int main() {
     string username;
     getline(cin, username);
-
+ 
     // Check if the username contains only English alphabets and has at most 10 letters
     bool valid = true;
     if (username.length() > 10) {

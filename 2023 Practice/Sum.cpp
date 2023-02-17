@@ -1,5 +1,3 @@
-STATEMENT:
-
 #include <iostream>
 
 int main() {

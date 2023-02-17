@@ -1,4 +1,4 @@
-STATEMENT:///Users/kongmoyu/Downloads/hello%20(en)%20(1).pdf
+STATEMENT:
 
 #include <iostream>
 
